@@ -1,0 +1,10 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+  vector<int> vec = {1,2,3}; //3 elements
+  cout << vec[0];
+
+    return 0;
+}
