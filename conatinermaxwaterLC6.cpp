@@ -46,3 +46,9 @@ int main() {
 
     return 0;
 }
+
+//o/p 
+//Enter number of elements: 9
+//Enter heights: 1 8 6 2 5 4 8
+// 3 7
+//Maximum Water = 49
