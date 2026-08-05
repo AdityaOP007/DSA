@@ -1,3 +1,4 @@
+## Daily DSA Progress
 # 🚀 Data Structures & Algorithms
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository! This repository contains my solutions to various DSA problems that I'm solving consistently to improve my problem-solving skills, coding ability, and interview preparation.
