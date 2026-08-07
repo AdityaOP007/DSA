@@ -6,4 +6,4 @@ int main() {
     cout << arr << endl; // prints the address of the first element of the array
     cout << *arr << endl; // prints the value of the first element of the array (1) 
     return 0;
-}
+} 
